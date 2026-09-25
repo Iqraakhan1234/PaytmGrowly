@@ -1,0 +1,19 @@
+{
+  "store_name": "Gupta General Store",
+  "business_type": "Kirana & FMCG Retail",
+  "location": "Shop 4, Main Market, Sector 14, Gurugram, Haryana - 122001",
+  "owner_name": "Rajesh Gupta",
+  "paytm_vpa": "guptageneralstore@paytm",
+  "pos_device": "Paytm POS Pro Smart Terminal #8841",
+  "soundbox_id": "Paytm Soundbox 4G #SB-9921-GUPTA",
+  "metrics": {
+    "today_sales": 14280,
+    "daily_target": 18000,
+    "daily_average_sales": 16500,
+    "today_transactions": 42,
+    "target_achievement_pct": 79.3,
+    "repeat_customer_rate_pct": 82.5,
+    "active_customers_count": 248,
+    "lapsed_customers_count": 2
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "STK-001",
+    "name": "Fortune Sunlite Sunflower Oil",
+    "variant": "1L Pouch",
+    "category": "Edible Oils & Ghee",
+    "current_stock": 4,
+    "unit": "pouches",
+    "daily_burn_rate": 6.8,
+    "selling_price": 145,
+    "reorder_level": 20,
+    "status": "critical",
+    "days_until_stockout": 0.6,
+    "supplier": {
+      "name": "Mahalaxmi FMCG Distributors",
+      "contact": "+91 98110 44211",
+      "lead_time_days": 1
+    }
+  },
+  {
+    "id": "STK-002",
+    "name": "Amul Butter Pasteurized",
+    "variant": "500g Pack",
+    "category": "Dairy & Refrigerated",
+    "current_stock": 3,
+    "unit": "packs",
+    "daily_burn_rate": 4.2,
+    "selling_price": 275,
+    "reorder_level": 15,
+    "status": "critical",
+    "days_until_stockout": 0.7,
+    "supplier": {
+      "name": "Mahalaxmi FMCG Distributors",
+      "contact": "+91 98110 44211",
+      "lead_time_days": 1
+    }
+  },
+  {
+    "id": "STK-003",
+    "name": "Aashirvaad Superior MP Atta",
+    "variant": "10kg Bag",
+    "category": "Flours & Grains",
+    "current_stock": 8,
+    "unit": "bags",
+    "daily_burn_rate": 3.5,
+    "selling_price": 460,
+    "reorder_level": 10,
+    "status": "low",
+    "days_until_stockout": 2.3,
+    "supplier": {
+      "name": "Mahalaxmi FMCG Distributors",
+      "contact": "+91 98110 44211",
+      "lead_time_days": 2
+    }
+  },
+  {
+    "id": "STK-004",
+    "name": "Tata Salt Vacuum Evaporated",
+    "variant": "1kg Pouch",
+    "category": "Spices & Seasoning",
+    "current_stock": 24,
+    "unit": "pouches",
+    "daily_burn_rate": 5.0,
+    "selling_price": 28,
+    "reorder_level": 12,
+    "status": "healthy",
+    "days_until_stockout": 4.8,
+    "supplier": {
+      "name": "North India FMCG Traders",
+      "contact": "+91 98101 22345",
+      "lead_time_days": 1
+    }
+  },
+  {
+    "id": "STK-005",
+    "name": "Brooke Bond Red Label Tea",
+    "variant": "500g Box",
+    "category": "Beverages & Tea",
+    "current_stock": 11,
+    "unit": "boxes",
+    "daily_burn_rate": 2.8,
+    "selling_price": 290,
+    "reorder_level": 8,
+    "status": "healthy",
+    "days_until_stockout": 3.9,
+    "supplier": {
+      "name": "North India FMCG Traders",
+      "contact": "+91 98101 22345",
+      "lead_time_days": 1
+    }
+  },
+  {
+    "id": "STK-006",
+    "name": "Maggi 2-Minute Masala Noodles",
+    "variant": "70g (Pack of 12)",
+    "category": "Instant Foods & Snacks",
+    "current_stock": 18,
+    "unit": "packs",
+    "daily_burn_rate": 4.0,
+    "selling_price": 168,
+    "reorder_level": 10,
+    "status": "healthy",
+    "days_until_stockout": 4.5,
+    "supplier": {
+      "name": "Mahalaxmi FMCG Distributors",
+      "contact": "+91 98110 44211",
+      "lead_time_days": 1
+    }
+  },
+  {
+    "id": "STK-007",
+    "name": "Surf Excel Easy Wash Detergent",
+    "variant": "1kg Pouch",
+    "category": "Household & Cleaning",
+    "current_stock": 14,
+    "unit": "pouches",
+    "daily_burn_rate": 2.2,
+    "selling_price": 140,
+    "reorder_level": 6,
+    "status": "healthy",
+    "days_until_stockout": 6.4,
+    "supplier": {
+      "name": "North India FMCG Traders",
+      "contact": "+91 98101 22345",
+      "lead_time_days": 2
+    }
+  },
+  {
+    "id": "STK-008",
+    "name": "Haldiram's Bhujia Sev",
+    "variant": "400g Pouch",
+    "category": "Instant Foods & Snacks",
+    "current_stock": 9,
+    "unit": "pouches",
+    "daily_burn_rate": 3.0,
+    "selling_price": 110,
+    "reorder_level": 8,
+    "status": "low",
+    "days_until_stockout": 3.0,
+    "supplier": {
+      "name": "Mahalaxmi FMCG Distributors",
+      "contact": "+91 98110 44211",
+      "lead_time_days": 1
+    }
+  }
+]

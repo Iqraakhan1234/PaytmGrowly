@@ -1,0 +1,148 @@
+{
+  "daily_summaries": [
+    {
+      "day": "Thursday (Sep 18)",
+      "date": "2026-09-18",
+      "total_sales": 16800,
+      "transaction_count": 48,
+      "avg_ticket": 350,
+      "notes": "Standard weekday trading"
+    },
+    {
+      "day": "Friday (Sep 19)",
+      "date": "2026-09-19",
+      "total_sales": 18200,
+      "transaction_count": 52,
+      "avg_ticket": 350,
+      "notes": "Strong evening grocery rush"
+    },
+    {
+      "day": "Saturday (Sep 20)",
+      "date": "2026-09-20",
+      "total_sales": 21500,
+      "transaction_count": 60,
+      "avg_ticket": 358,
+      "notes": "Weekend pantry restocking"
+    },
+    {
+      "day": "Sunday (Sep 21)",
+      "date": "2026-09-21",
+      "total_sales": 22400,
+      "transaction_count": 64,
+      "avg_ticket": 350,
+      "notes": "Peak weekend sales"
+    },
+    {
+      "day": "Monday (Sep 22)",
+      "date": "2026-09-22",
+      "total_sales": 15900,
+      "transaction_count": 45,
+      "avg_ticket": 353,
+      "notes": "Normal weekday baseline"
+    },
+    {
+      "day": "Tuesday (Sep 23)",
+      "date": "2026-09-23",
+      "total_sales": 11200,
+      "transaction_count": 34,
+      "avg_ticket": 329,
+      "notes": "54% slump between 12-4 PM (heavy afternoon rain & zero footfall)"
+    },
+    {
+      "day": "Today (Sep 24)",
+      "date": "2026-09-24",
+      "total_sales": 14280,
+      "transaction_count": 42,
+      "avg_ticket": 340,
+      "notes": "Active day in progress (3.5 hours remaining)"
+    }
+  ],
+  "hourly_distribution": [
+    { "slot": "08:00 - 09:00", "sales": 1200, "txns": 4 },
+    { "slot": "09:00 - 10:00", "sales": 1850, "txns": 6 },
+    { "slot": "10:00 - 11:00", "sales": 2400, "txns": 7 },
+    { "slot": "11:00 - 12:00", "sales": 1900, "txns": 5 },
+    { "slot": "12:00 - 13:00", "sales": 650, "txns": 2 },
+    { "slot": "13:00 - 14:00", "sales": 480, "txns": 1 },
+    { "slot": "14:00 - 15:00", "sales": 520, "txns": 2 },
+    { "slot": "15:00 - 16:00", "sales": 450, "txns": 1 },
+    { "slot": "16:00 - 17:00", "sales": 1100, "txns": 3 },
+    { "slot": "17:00 - 18:00", "sales": 1650, "txns": 5 },
+    { "slot": "18:00 - 19:00", "sales": 1380, "txns": 4 },
+    { "slot": "19:00 - 20:00", "sales": 700, "txns": 2 }
+  ],
+  "recent_transactions": [
+    {
+      "txn_id": "PTM-TXN-98412",
+      "time": "18:42 PM",
+      "customer_name": "Neha Aggarwal",
+      "amount": 420,
+      "items": ["Fortune Sunlite Sunflower Oil (1L)", "Amul Butter Pasteurized (500g)"],
+      "payment_method": "Paytm QR / UPI",
+      "soundbox_broadcast": "Paytm par ₹420 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98411",
+      "time": "18:15 PM",
+      "customer_name": "Walk-in Customer",
+      "amount": 168,
+      "items": ["Maggi 2-Minute Masala Noodles (Pack of 12)"],
+      "payment_method": "Paytm Soundbox UPI",
+      "soundbox_broadcast": "Paytm par ₹168 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98410",
+      "time": "17:50 PM",
+      "customer_name": "Amit Sharma",
+      "amount": 750,
+      "items": ["Aashirvaad Superior MP Atta (10kg)", "Brooke Bond Red Label Tea (500g)"],
+      "payment_method": "Paytm Card POS",
+      "soundbox_broadcast": "Paytm par ₹750 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98409",
+      "time": "17:22 PM",
+      "customer_name": "Sunita Rao",
+      "amount": 318,
+      "items": ["Amul Butter (500g)", "Tata Salt (1kg)"],
+      "payment_method": "Paytm QR / UPI",
+      "soundbox_broadcast": "Paytm par ₹318 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98408",
+      "time": "16:45 PM",
+      "customer_name": "Walk-in Customer",
+      "amount": 110,
+      "items": ["Haldiram's Bhujia Sev (400g)"],
+      "payment_method": "Paytm Soundbox UPI",
+      "soundbox_broadcast": "Paytm par ₹110 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98407",
+      "time": "11:30 AM",
+      "customer_name": "Walk-in Customer",
+      "amount": 290,
+      "items": ["Brooke Bond Red Label Tea (500g)"],
+      "payment_method": "Paytm Soundbox UPI",
+      "soundbox_broadcast": "Paytm par ₹290 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98406",
+      "time": "10:15 AM",
+      "customer_name": "Amit Sharma",
+      "amount": 600,
+      "items": ["Aashirvaad Atta (10kg)", "Surf Excel (1kg)"],
+      "payment_method": "Paytm QR / UPI",
+      "soundbox_broadcast": "Paytm par ₹600 prapt hue"
+    },
+    {
+      "txn_id": "PTM-TXN-98405",
+      "time": "09:20 AM",
+      "customer_name": "Walk-in Customer",
+      "amount": 145,
+      "items": ["Fortune Sunflower Oil (1L)"],
+      "payment_method": "Paytm Soundbox UPI",
+      "soundbox_broadcast": "Paytm par ₹145 prapt hue"
+    }
+  ]
+}

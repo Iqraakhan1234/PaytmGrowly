@@ -1,0 +1,90 @@
+[
+  {
+    "customer_id": "CUST-001",
+    "name": "Priya Verma",
+    "phone": "+91 99104 11982",
+    "segment": "High-Value Weekly",
+    "total_visits": 24,
+    "total_spend": 8450,
+    "days_since_last_visit": 18,
+    "status": "lapsed",
+    "favorite_items": [
+      "Fortune Sunlite Sunflower Oil (1L)",
+      "Brooke Bond Red Label Tea (500g)",
+      "Aashirvaad Atta (10kg)"
+    ]
+  },
+  {
+    "customer_id": "CUST-002",
+    "name": "Vikas Mehra",
+    "phone": "+91 98108 55430",
+    "segment": "Bi-Weekly Regular",
+    "total_visits": 19,
+    "total_spend": 6200,
+    "days_since_last_visit": 22,
+    "status": "lapsed",
+    "favorite_items": [
+      "Amul Butter Pasteurized (500g)",
+      "Tata Salt (1kg)",
+      "Maggi Masala 12-Pack"
+    ]
+  },
+  {
+    "customer_id": "CUST-003",
+    "name": "Amit Sharma",
+    "phone": "+91 98711 33490",
+    "segment": "Top VIP Regular",
+    "total_visits": 32,
+    "total_spend": 14800,
+    "days_since_last_visit": 2,
+    "status": "active",
+    "favorite_items": [
+      "Aashirvaad Atta (10kg)",
+      "Fortune Sunlite Sunflower Oil (1L)",
+      "Surf Excel (1kg)"
+    ]
+  },
+  {
+    "customer_id": "CUST-004",
+    "name": "Sunita Rao",
+    "phone": "+91 98119 44821",
+    "segment": "Weekly Essentials",
+    "total_visits": 15,
+    "total_spend": 4950,
+    "days_since_last_visit": 4,
+    "status": "active",
+    "favorite_items": [
+      "Amul Butter Pasteurized (500g)",
+      "Brooke Bond Red Label Tea (500g)"
+    ]
+  },
+  {
+    "customer_id": "CUST-005",
+    "name": "Deepak Kapoor",
+    "phone": "+91 99112 77610",
+    "segment": "Monthly Shopper",
+    "total_visits": 11,
+    "total_spend": 3800,
+    "days_since_last_visit": 9,
+    "status": "drifting",
+    "favorite_items": [
+      "Haldiram's Bhujia Sev (400g)",
+      "Tata Salt (1kg)"
+    ]
+  },
+  {
+    "customer_id": "CUST-006",
+    "name": "Neha Aggarwal",
+    "phone": "+91 98105 88901",
+    "segment": "High-Value Weekly",
+    "total_visits": 28,
+    "total_spend": 11200,
+    "days_since_last_visit": 1,
+    "status": "active",
+    "favorite_items": [
+      "Fortune Sunlite Sunflower Oil (1L)",
+      "Amul Butter Pasteurized (500g)",
+      "Maggi Masala 12-Pack"
+    ]
+  }
+]
