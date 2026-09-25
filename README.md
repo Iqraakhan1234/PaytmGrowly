@@ -108,3 +108,4 @@ Navy `#0B1F3A` · Gold `#E3982B` · Teal `#1B998B` · Fraunces (display) + Manro
 ---
 
 **PaytmGrowly** — the AI business partner for every Paytm merchant. 🛒✨
+<img width="1536" height="934" alt="dashboard" src="https://github.com/user-attachments/assets/ca4b6f86-f7ae-4e87-a277-3de787271f27" />
